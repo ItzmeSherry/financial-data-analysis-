@@ -204,6 +204,10 @@ User Interface
 
 It provided practical experience with Python, SQL databases, external APIs, data processing, and application structure.
 
+## P.S
+
+modify the forex data early so that it can display further data (bug will debug it later)
+
 ## Disclaimer
 
 This project is intended for educational and experimental purposes. The financial data and analysis produced by the application should not be considered financial advice.
